@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+    </head>
+    <body>
+        <h1>Registration Form</h1>
+        <form>
+            First name: <input type="text" name="first_name" placeholder="ex. Juan" /><br/>
+            Last name: <input type="text" name="last_name" placeholder="ex dela cruz" />
+        </form>
+        <h1>Registration Form2</h1>
+        <form>
+            Username: <input type="text" name="username" /><br/>
+            Password: <input type="password" name="password" />
+        </form>
+        <h1>Registration Form3</h1>
+        <form>
+            Description <br />
+            <textarea rows="S"
+            cols="50"
+            name="description">
+            placeholder="ex dela cruz"
+        ></textarea>    
+        </form>
+        <h1>Registration Form 4</h1>
+        <form>
+            <input type="checkbox" name="html" />HTML
+            <input type="checkbox" name="css" />CSS
+            <input type="checkbox" name="JS" />Javascript
+        </form>
+
+        <h1>Registration 5</h1>
+        <form>
+            <input type="radio" name="gender" value="male" />Male
+            <input type="radio" name="gender" value="female" />Female
+            <input type="radio" name="gender" value="other" />Other
+        </form>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+h1{
+    background-color: blue
+}
+#main_heading{
+    font-size: 300%;
+}
+.sub_heading{
+    color:white
+}
+span.test_text{
+    font-size: 200%;
+    background-color: magenta
+}
+img.css{
+    width: 200px;
+    background-color: yellow;
+}
+
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/grainy-white-paper-surface-as-texture-background-close-up-macro-200678301.jpg);
+    background-attachment: fixed;
+}

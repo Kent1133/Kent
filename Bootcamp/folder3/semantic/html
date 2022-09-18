@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Semantics</title>
+    </head>
+    <body>
+        <header>This is the header.</header>
+        <nav>This is the nav.</nav>
+        <section>This is the section.</section>
+        <article>This is the article.</article>
+        <aside>This is the asisde.</aside>
+        <footer>This is the footer.</footer>
+    </body>
+</html>

@@ -1,0 +1,56 @@
+/* body { */
+    background-color: rgb(122, 187, 122);
+    background-image: url("images/Piza.jpg");
+    background-size: 100%;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+body{
+    font-size: 120%
+}
+
+ul.list-1 {
+    list-style-type: circle;
+}
+ul.list-2{
+    list-style-type: square;
+}
+ol{
+    list-style-type: upper-roman;
+}
+img{
+    width: 30%
+}
+
+#Pizza1{
+    padding-top: 20%;
+}
+
+table, th, td{
+    font-size: 200%;
+    border: 2px solid;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 20px 20px 20px 20px
+}
+
+table{
+    width: 100%
+}
+
+td{
+    text-align: center;
+    vertical-align: bottom;
+}
+tr:hover{
+    background-color: rgb(243, 75, 243);
+}
+
+th{
+    background-color:orange
+}
+tr:nth-child(even){
+    background-color: rgb(221, 155, 155)
+}
